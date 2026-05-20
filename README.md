@@ -1,5 +1,12 @@
 # SMG_Scratch04 Post
 
+## 2026年5月20日
+<img width="402" height="790" alt="image" src="https://github.com/user-attachments/assets/1afade9d-e5c1-4297-9d4f-1b3da034485d" />
+
+緊急地震速報(警報)試験的に追加しましたん
+
+https://smg-scratch04.github.io/JESM/
+
 ## 2026年4月13日
 <img width="1206" height="905" alt="ダウンロード (41)" src="https://github.com/user-attachments/assets/c77a1e95-1844-4a23-bef8-23f05e27b5ff" />
 
