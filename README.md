@@ -1,4 +1,9 @@
 # SMG_Scratch04 Post
+## 2026年8月17日
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/40982518-6d92-4f7b-adfd-ca6eab439283" />
+JESM 全体的に丸くなりましたん
+
+https://smg-scratch04.github.io/JESM/
 
 ## 2026年5月20日
 <img width="402" height="790" alt="image" src="https://github.com/user-attachments/assets/1afade9d-e5c1-4297-9d4f-1b3da034485d" />
